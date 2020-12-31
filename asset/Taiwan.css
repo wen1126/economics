@@ -1,0 +1,176 @@
+body{
+  background:url("../picture/bg1.png");
+  margin: 0px auto 0px auto;
+}
+.bg1{
+  border: 2px solid #FFAD86;
+  background-color: #FFAD86;
+  height: 200px;
+  width: auto;
+  position: relative;
+  top:100px;
+}
+
+.img1{
+  width:450px ;
+  height: 300px;
+  position: relative;
+  top: -50px;
+  float: left;
+  left: -10px;
+  
+}
+.img1:hover{
+border-radius:50px;
+}
+.txt1{
+  font-family: "Arial Black";
+  font-size: 52px;
+  position: relative;
+  top: -50px;
+  left: 30px;
+}
+.txt2{
+  font-size: 50px;
+  font-family: "微軟正黑體";
+  font-weight: bolder;
+  text-align: center;
+  position: relative;
+  top: -80px;
+  color: aliceblue;
+  background-color: #FF5809;
+  border: 2px solid#FF5809;
+  border-radius: 10px;
+  left: 40px;
+}
+.txt2:hover{
+  background-color:#BB3D00;
+  border: 2px solid #BB3D00;
+}
+.txt3 {
+  font-size: 50px;
+  font-family: "微軟正黑體";
+  font-weight: bolder;
+  text-align: center;
+  position: relative;
+  color: aliceblue;
+  background-color: #FF5809;
+  border: 2px solid#FF5809;
+  border-radius: 10px;
+  top: -153px;
+  left: 600px;
+}
+.txt3:hover {
+  background-color: #BB3D00;
+  border: 2px solid #BB3D00;
+}
+.txt4{
+    font-size: 50px;
+    font-family: "微軟正黑體";
+    font-weight: bolder;
+    text-align: center;
+    position: relative;
+    color: aliceblue;
+    background-color: #FF5809;
+    border: 2px solid#FF5809;
+    border-radius: 10px;
+    top: -225px;
+    left: 1500px;
+}
+.txt4:hover {
+  background-color: #BB3D00;
+  border: 2px solid #BB3D00;
+}
+.tit1{
+  font-size: 50px;
+  position: relative;
+  font-weight: bolder;
+  top: 140px;
+  left: 430px;
+  background-color: blanchedalmond;
+  border: solid 5px #FFB630;
+  border-style: dashed;
+  width: 250px;
+  float: left;
+}
+
+.img2{
+  position: relative;
+  top: 300px;
+  width: 750px;
+  z-index: -1;
+  left: 320px;
+}
+.txt5{
+  font-family: "微軟正黑體";
+  font-size: 30px;
+  font-weight: bolder;
+  position: relative;
+  top: -130px;
+  left: 100px;
+ 
+}
+.tit2{
+  font-size: 50px;
+  position: relative;
+  font-weight: bolder;
+  top: -20px;
+  left: 880px;
+  background-color: blanchedalmond;
+  border: solid 5px #FFB630;
+  border-style: dashed;
+  width: 155px;
+}
+.img3{
+  position: relative;
+  left: 1030px;
+  width: 750px;
+  top: -40px;
+}
+.txt6{
+  font-family: "微軟正黑體";
+  font-size: 30px;
+  position: relative;
+  top: -300px;
+  font-weight: bolder;
+  left: 100px;
+}
+.tit3 {
+  font-size: 50px;
+  position: relative;
+  font-weight: bolder;
+  top: -70px;
+  left: 880px;
+  background-color: blanchedalmond;
+  border: solid 5px #FFB630;
+  border-style: dashed;
+  width: 250px;
+}
+.img4 {
+  position: relative;
+  left: 1030px;
+  width: 750px;
+  top: -90px;
+}
+.txt7 {
+  font-family: "微軟正黑體";
+  font-size: 30px;
+  position: relative;
+  top: -400px;
+  font-weight: bolder;
+  left: 100px;
+}
+.img5 {
+  position: relative;
+  left: 1030px;
+  width: 750px;
+  top: -190px;
+}
+.txt8 {
+  font-family: "微軟正黑體";
+  font-size: 30px;
+  position: relative;
+  top: -430px;
+  font-weight: bolder;
+  left: 100px;
+}
